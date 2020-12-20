@@ -17,7 +17,7 @@ for key in data["overlays"]:
 	overlay = data["overlays"][key]
 	day = key[-2 : ]
 	image = overlay["items"][0]["revealImageUrl"]
-	label = overlay["items"][1]["items"][1]["text"]
+	label = overlay["items"][1]["items"][0]["text"]
 
 	entry = "## {}.12.2020: {}\n![]({} =x200)\n".format(day, label, image)
 
