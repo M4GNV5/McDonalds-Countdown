@@ -2,26 +2,27 @@ import json
 import requests
 import datetime
 
-r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/appventskalender2020.json")
+#r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/appventskalender2020.json")
+r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2021.json")
 data = r.json()
 
 past_days = ""
 today = datetime.date.today()
 
-print("# McDonalds XMAS 2020 Countdown (Germany)\n")
+print("# McDonalds Easter 2021 Countdown (Germany)\n")
 
-for key in data["overlays"]:
-	if not key.startswith("formConfirmationOverlay"):
+for page in data["pages"]:
+	if page["pageName"] != "calendar":
 		continue
 
-	overlay = data["overlays"][key]
-	day = key[-2 : ]
-	image = overlay["items"][0]["revealImageUrl"]
-	label = overlay["items"][1]["items"][0]["text"]
+	date = page["criteria"]["startTime"][0 : 10]
+	label = page["headline"]["headline"]
+	image = page["items"][0]["items"][1]["overlayImageURL"]
 
-	entry = "## {}.12.2020: {}\n![]({})\n".format(day, label, image)
+	entry = "## {}: {}\n![]({})\n".format(date, label, image)
 
-	if today.year == 2020 and today.month == 12 and today.day > int(day):
+	date = datetime.datetime.strptime(date, "%d.%m.%Y").date()
+	if today > date:
 		past_days += entry + "\n"
 	else:
 		print(entry)
