@@ -11,6 +11,8 @@ today = datetime.date.today()
 
 print("# McDonalds Easter 2021 Countdown (Germany)\n")
 
+entries = {}
+
 for page in data["pages"]:
 	if page["pageName"] != "calendar":
 		continue
@@ -21,12 +23,29 @@ for page in data["pages"]:
 
 	entry = "## {}: {}\n![]({})\n".format(date, label, image)
 
-	date = datetime.datetime.strptime(date, "%d.%m.%Y").date()
-	if today > date:
-		past_days += entry + "\n"
-	else:
-		print(entry)
+	dateObj = datetime.datetime.strptime(date, "%d.%m.%Y").date()
+	entries[dateObj] = {
+		"date": date,
+		"label": label,
+		"images": [],
+	}
 
-if past_days != "":
-	print("# Past Days\n")
-	print(past_days)
+for card in data["shared"]["teaserSlider"]["cards"]:
+	date = card["description"][3 : 8] + ".2021"
+	date = datetime.datetime.strptime(date, "%d.%m.%Y").date()
+
+	if date not in entries:
+		raise Exception("Could not find text to {}".format(date))
+
+	entries[date]["images"].append(card["imageURL"])
+
+for date in entries:
+	entry = entries[date]
+	label = entry["label"]
+	if len(entry["images"]) > 1:
+		label += " + SPECIAL"
+
+	print("## {}: {}".format(entry["date"], label))
+	for url in entry["images"]:
+		print("![]({})".format(url))
+	print()
