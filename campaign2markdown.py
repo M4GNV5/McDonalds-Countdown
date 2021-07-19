@@ -3,49 +3,48 @@ import requests
 import datetime
 
 #r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/appventskalender2020.json")
-r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2021.json")
+#r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2021.json")
+r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/sw2021.json")
 data = r.json()
 
 past_days = ""
 today = datetime.date.today()
 
-print("# McDonalds Easter 2021 Countdown (Germany)\n")
+print("# McDonalds Summer Weeks 2021 (Germany)\n")
 
 entries = {}
 
 for page in data["pages"]:
-	if page["pageName"] != "calendar":
+	if page["pageName"] != "couponDay": # or page["style"]["backgroundMode"] != "light":
 		continue
 
 	date = page["criteria"]["startTime"][0 : 10]
-	label = page["headline"]["headline"]
-	image = page["items"][0]["items"][1]["overlayImageURL"]
+	content = page["items"][0]
+	if "reference" in content:
+		content = data["shared"][content["reference"]]["items"][0]
+	label = content["revealHeadline"]["headline"]
+	image = content["revealImageUrl"]
 
 	entry = "## {}: {}\n![]({})\n".format(date, label, image)
 
 	dateObj = datetime.datetime.strptime(date, "%d.%m.%Y").date()
-	entries[dateObj] = {
-		"date": date,
-		"label": label,
-		"images": [],
-	}
-
-for card in data["shared"]["teaserSlider"]["cards"]:
-	date = card["description"][3 : 8] + ".2021"
-	date = datetime.datetime.strptime(date, "%d.%m.%Y").date()
-
-	if date not in entries:
-		raise Exception("Could not find text to {}".format(date))
-
-	entries[date]["images"].append(card["imageURL"])
+	if dateObj in entries:
+		entries[dateObj]["images"].add(image)
+	else:
+		entries[dateObj] = {
+			"date": date,
+			"label": label,
+			"images": set([image]),
+		}
 
 for date in entries:
 	entry = entries[date]
 	label = entry["label"]
-	if len(entry["images"]) > 1:
+	if len(entry["images"]) > 2:
 		label += " + SPECIAL"
 
 	print("## {}: {}".format(entry["date"], label))
 	for url in entry["images"]:
-		print("![]({})".format(url))
+		print("![]({})".format(url), end="")
+	print()
 	print()

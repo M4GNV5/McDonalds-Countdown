@@ -1,114 +1,101 @@
-# McDonalds Easter 2021 Countdown (Germany)
+# McDonalds Summer Weeks 2021 (Germany)
 
-## 17.02.2021: Big Mac®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_17.02.img_stage_big_mac_oc.png)
+## 19.07.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 18.02.2021: Doppelpack Menü
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_18.02.img_stage_doppelpack_menue_oc.png)
+## 20.07.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 19.02.2021: McFlurry®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_19.02.img_stage_mcflurry_nach_wahl_mit_2_toppings_oc.png)
+## 21.07.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 20.02.2021: 2x McMenü® Small + SPECIAL
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_20.02.img_stage_mcmenue_small_oc.png)
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_20.02.img_stage_gratis_paar_socken_oc.png)
+## 22.07.2021: 2 Cheese- oder Chickenburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Cheese_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Cheese_1280x1652.jpg)
 
-## 21.02.2021: 20er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_21.02.img_stage_20er_chicken_mcnuggets-_oc.png)
+## 23.07.2021: 2 Milchshakes 0,25l nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Milchshakes_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Milchshakes_1280x1652.jpg)
 
-## 22.02.2021: Doppelpack Menü
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_22.02.img_stage_doppelpack_menue_oc.png)
+## 24.07.2021: 1 Doppelburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Doppelburger_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Doppelburger_1280x1652.jpg)
 
-## 23.02.2021: 6er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_23.02.img_stage_6er_chicken_mcnuggets_oc.png)
+## 26.07.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 24.02.2021: Hamburger Royal Käse
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_24.02.img_stage_hamburger_royal_kaese_oc.png)
+## 27.07.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 25.02.2021: McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_25.02.img_stage_mcmenue_small_oc.png)
+## 28.07.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 26.02.2021: Filet-o-Fish®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_26.02.img_stage_filet-o-fish_oc.png)
+## 29.07.2021: 2 Cheese- oder Chickenburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Cheese_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Cheese_1280x1652.jpg)
 
-## 27.02.2021: 1955® McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_27.02.img_1995_stage_mcmenue_small_oc.png)
+## 30.07.2021: 2 Milchshakes 0,25l nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Milchshakes_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Milchshakes_1280x1652.jpg)
 
-## 28.02.2021: 20er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_28.02.img_stage_20er_chicken_mcnuggets-_oc.png)
+## 31.07.2021: 1 Doppelburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Doppelburger_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Doppelburger_1280x1652.jpg)
 
-## 01.03.2021: McFlurry® + SPECIAL
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_01.03.img_stage_mcflurry_nach_wahl_mit_2_toppings_oc.png)
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_01.03.img_stage_mcflurry_duschgel_oc.png)
+## 02.08.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 02.03.2021: McChicken® Classic
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_02.03.img_stage_mc_chicken_oc.png)
+## 03.08.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 03.03.2021: 9er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_03.03.img_stage_chicken_mcnuggets_9er_oc.png)
+## 04.08.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 04.03.2021: 2x Hamburger Royal TS®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_04.03.img_stage_hamburger_royal_ts_OC.png)
+## 05.08.2021: 2 Cheese- oder Chickenburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Cheese_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Cheese_1280x1652.jpg)
 
-## 05.03.2021: McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_05.03.img_stage_mcmenue_small_oc.png)
+## 06.08.2021: 2 Milchshakes 0,25l nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Milchshakes_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Milchshakes_1280x1652.jpg)
 
-## 06.03.2021: 20er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_06.03.img_stage_20er_chicken_mcnuggets-_oc.png)
+## 07.08.2021: 1 Doppelburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Doppelburger_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Doppelburger_1280x1652.jpg)
 
-## 07.03.2021: McMenü® Small + Happy Meal® + SPECIAL
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_07.03.img_stage_duplo_oc.png)
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_07.03.img_stage_mcmenue_small_happy_meal_oc.png)
+## 09.08.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 08.03.2021: Big Tasty® Bacon + McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_08.03.img_stage_bigtasty_bacon_mcmenue_small_oc.png)
+## 10.08.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 09.03.2021: Milchshake 0,25l
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_09.03.img_stage_milkshake_oc.png)
+## 11.08.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 10.03.2021: 9er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_10.03.img_stage_chicken_mcnuggets_9er_oc.png)
+## 12.08.2021: 2 Cheese- oder Chickenburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Cheese_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Cheese_1280x1652.jpg)
 
-## 11.03.2021: McChicken® Classic
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_11.03.img_stage_mc_chicken_oc.png)
+## 13.08.2021: 2 Milchshakes 0,25l nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Milchshakes_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Milchshakes_1280x1652.jpg)
 
-## 12.03.2021: 2x McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_12.03.img_stage_2x_mcmenue_small_nach_wahl_oc.png)
+## 14.08.2021: 1 Doppelburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Doppelburger_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Doppelburger_1280x1652.jpg)
 
-## 13.03.2021: 20er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_13.03.img_stage_20er_chicken_mcnuggets-_oc.png)
+## 16.08.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 14.03.2021: Doppelpack Menü + SPECIAL
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/14.03.img_stage_Lays_Core_chips_oc.png)
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_14.03.img_stage_doppelpack_menue_oc.png)
+## 17.08.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 15.03.2021: Cheeseburger Snack Bundle
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_15.03.img_stage_cheesburger_snack_bundle_oc.png)
+## 18.08.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 16.03.2021: Big Mac®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_16.03.img_stage_big_mac_oc.png)
+## 19.08.2021: 2 Cheese- oder Chickenburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Cheese_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Cheese_1280x1652.jpg)
 
-## 17.03.2021: McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_17.03.img_stage_mcmenue_small_oc.png)
+## 20.08.2021: 2 Milchshakes 0,25l nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_2Milchshakes_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_2Milchshakes_1280x1652.jpg)
 
-## 18.03.2021: McFlurry®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_18.03.img_stage_mcflurry_nach_wahl_mit_2_toppings_o.png)
+## 21.08.2021: 1 Doppelburger nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Doppelburger_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Doppelburger_1280x1652.jpg)
 
-## 19.03.2021: Doppelpack Menü
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_19.03.img_stage_doppelpack_menue_nach_wahl_oc.png)
+## 23.08.2021: 1 Klassiker nach Wahl*
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Klassiker_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Klassiker_1280x1652.jpg)
 
-## 20.03.2021: 6er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_20.03.img_stage_6er_chicken_mcnuggets_oc.png)
+## 24.08.2021: 1 Milchshake 0,25l nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1Milchshale_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
-## 21.03.2021: McMenü® Small + Happy Meal®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_21.03.img_stage_mcmenue_small_happy_meal_oc-.png)
-
-## 22.03.2021: Doppel-Cheeseburger Doppelpack Menü
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_22.03.img_stage_doppel_cheesburger_snack_bundle_oc.png)
-
-## 23.03.2021: 2x McMenü® Small
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_23.03.img_stage_mcmenue_small_nach_wahl_oc.png)
-
-## 24.03.2021: 20er Chicken McNuggets®
-![](https://mcd-mobileapp-prod.azureedge.net/img/easter/2021/001_deal_of_the_day_all_products_stages_teaser/004_deal_of_day_teaser/teaser_24.03.img_stage_20er_chicken_mcnuggets-_oc.png)
+## 25.08.2021: 1 McMenü® Small nach Wahl* + SPECIAL
+![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/night/2021_GMA_McD_SummerWeeks_Coupons_Nacht_Frame_1McMenue_1280x1652.jpg)![](https://mcd-mobileapp-prod.azureedge.net/img/campaigns/sw2021/coupon_reveal/day/2021_GMA_McD_SummerWeeks_Coupons_Tag_1CocaColaZeroSugar_1280x1652.jpg)
 
