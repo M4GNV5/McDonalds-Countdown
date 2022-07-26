@@ -5,31 +5,24 @@ import datetime
 #r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/appventskalender2020.json")
 #r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2021.json")
 #r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/sw2021.json")
-r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2022.json")
+#r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/easter2022.json")
+r = requests.get("https://mcd-mobileapp-prod.azureedge.net/json/de/campaigns/summer22.json")
 data = r.json()
 
 past_days = ""
 today = datetime.date.today()
 
-print("# McDonalds Summer Weeks 2021 (Germany)\n")
+print("# McDonalds Summer Taste 2022 (Germany)\n")
 
 entries = {}
 
 for page in data["pages"]:
-	if not page["identifier"].startswith("calendar"): # or page["style"]["backgroundMode"] != "light":
+	if not page["identifier"].startswith("LandingPage"):
 		continue
 
 	date = page["criteria"]["startTime"][0 : 10]
-	image = page["items"][0]
-	if "reference" in image:
-		image = data["shared"][image["reference"]]
-
-	headline = page["items"][2]
-	if "reference" in headline:
-		headline = data["shared"][headline["reference"]]
-
-	label = headline["headline"]
-	image = image["url"]
+	label = page["items"][1]["headline"]
+	image = page["stageMedia"]["url"]
 
 	entry = "## {}: {}\n![]({})\n".format(date, label, image)
 
